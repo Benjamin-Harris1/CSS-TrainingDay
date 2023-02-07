@@ -1,0 +1,42 @@
+body {
+  background-color: aquamarine;
+}
+header {
+  background-color: bisque;
+}
+section {
+  background-color: brown;
+}
+body {
+  color: white;
+}
+section {
+  color: blue;
+}
+
+h2 {
+  color: darkgray;
+}
+
+#about {
+  background-color: cornsilk;
+}
+
+#boxmodel {
+  background-color: darkgreen;
+}
+
+#units {
+  background-color: aqua;
+}
+
+#fonts {
+  background-color: darkviolet;
+}
+
+section.codebox {
+  background-color: teal;
+}
+nav ul {
+  list-style-type: none;
+}
